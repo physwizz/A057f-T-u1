@@ -1,3 +1,3 @@
 # A057f-T-u1
 
-toolchain.gz has EOF error
+toolchain.tar.gz has EOF error
